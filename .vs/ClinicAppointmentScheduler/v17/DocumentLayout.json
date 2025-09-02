@@ -1,0 +1,687 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net\\ClinicAppointmentScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|d:\\dot net\\clinicappointmentscheduler\\aal\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\interfaces\\iappointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iappointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\notificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\notificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\emailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\emailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\filerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\filerecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\dtos\\filerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\filerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\interfaces\\iemailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iemailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\filerecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\filerecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\migrations\\202506251300488_addnamepropertytodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506251300488_addnamepropertytodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\migrations\\202506251252180_addnamepropertytopatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506251252180_addnamepropertytopatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\interfaces\\inotificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\inotificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\interfaces\\ifilerecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ifilerecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\interfaces\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AAL\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AAL\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:54:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AAL\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AAL\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:55:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "AAL\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "AAL\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:17:02.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AppointmentService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:36:09.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AppointmentDTO.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\AppointmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AppointmentDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:12:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\NotificationService.cs",
+              "RelativeToolTip": "BLL\\Services\\NotificationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:42:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "AAL\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "AAL\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwIkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:38:56.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppointmentRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IAppointmentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAppointmentRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IAppointmentRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAppointmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:27:05.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\AppointmentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AppointmentRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\AppointmentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AppointmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:02:27.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Notification.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Notification.cs",
+              "RelativeToolTip": "DAL\\Models\\Notification.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:46:43.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Appointment.cs",
+              "RelativeToolTip": "DAL\\Models\\Appointment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:44:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\NotificationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\NotificationRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\NotificationRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\NotificationRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:20:37.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\EmailRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\EmailRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\EmailRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\EmailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:23:39.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:16:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PatientService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\PatientService.cs",
+              "RelativeToolTip": "BLL\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:33:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\DoctorRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\DoctorRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\DoctorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:58:54.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:42:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\DoctorService.cs",
+              "RelativeToolTip": "BLL\\Services\\DoctorService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:29:57.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\DoctorDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\DoctorDTO.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\DoctorDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\DoctorDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:09:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AAL\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AAL\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswGkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:52:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:50:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileRecordService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\FileRecordService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\FileRecordService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\FileRecordService.cs",
+              "RelativeToolTip": "BLL\\Services\\FileRecordService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:38:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\EmailService.cs",
+              "RelativeToolTip": "BLL\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:45:03.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\EmailDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\EmailDTO.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\EmailDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\EmailDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:15:05.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\NotificationDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\NotificationDTO.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\NotificationDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\NotificationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:14:00.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileRecordDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\FileRecordDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\FileRecordDTO.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\FileRecordDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\FileRecordDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:12:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileRecordRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\FileRecordRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\FileRecordRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\FileRecordRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\FileRecordRepo.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv2QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:15:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClinicContext.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\ClinicContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ClinicContext.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\ClinicContext.cs",
+              "RelativeToolTip": "DAL\\ClinicContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:18:50.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Email.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Email.cs",
+              "RelativeToolTip": "DAL\\Models\\Email.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:47:20.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:22:49.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IEmailRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IEmailRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IEmailRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IEmailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:30:10.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "202506251300488_AddNamePropertyToDoctor.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Migrations\\202506251300488_AddNamePropertyToDoctor.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506251300488_AddNamePropertyToDoctor.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Migrations\\202506251300488_AddNamePropertyToDoctor.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506251300488_AddNamePropertyToDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:00:53.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileRecord.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\FileRecord.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\FileRecord.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\FileRecord.cs",
+              "RelativeToolTip": "DAL\\Models\\FileRecord.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:45:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PatientRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Repos\\PatientRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PatientRepo.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswGMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:46:45.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "202506251252180_AddNamePropertyToPatient.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Migrations\\202506251252180_AddNamePropertyToPatient.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506251252180_AddNamePropertyToPatient.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Migrations\\202506251252180_AddNamePropertyToPatient.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506251252180_AddNamePropertyToPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:52:22.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Patient.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Patient.cs",
+              "RelativeToolTip": "DAL\\Models\\Patient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:23:42.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "DAL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:29:10.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "INotificationRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\INotificationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\INotificationRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\INotificationRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\INotificationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:29:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFileRecordRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IFileRecordRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IFileRecordRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IFileRecordRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IFileRecordRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:28:55.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IDoctorRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IDoctorRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IDoctorRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IDoctorRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IDoctorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:26:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:21:02.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

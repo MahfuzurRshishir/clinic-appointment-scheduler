@@ -1,0 +1,12 @@
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\BLL.dll
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\BLL.pdb
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\DAL.dll
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\DAL.pdb
+D:\Dot Net\ClinicAppointmentScheduler\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Dot Net\ClinicAppointmentScheduler\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Dot Net\ClinicAppointmentScheduler\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Dot Net\ClinicAppointmentScheduler\BLL\obj\Debug\BLL.dll
+D:\Dot Net\ClinicAppointmentScheduler\BLL\obj\Debug\BLL.pdb
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\EntityFramework.dll
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\DAL.dll.config
+D:\Dot Net\ClinicAppointmentScheduler\BLL\bin\Debug\EntityFramework.xml
