@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Dot Net\\ClinicAppointmentScheduler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +27,8 @@
       "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|d:\\dot net\\clinicappointmentscheduler\\aal\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\aal\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF398B9A-4F4C-41F1-9608-235C152045F4}|AAL\\AAL.csproj|solutionrelative:aal\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\bll\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB7143F4-4D92-479C-8676-B92B38A1002D}|BLL\\BLL.csproj|solutionrelative:bll\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE03A074-C759-4CBC-A286-32BB7DA61C62}|DAL\\DAL.csproj|D:\\Dot Net\\ClinicAppointmentScheduler\\dal\\repos\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -182,58 +182,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationController.cs",
-              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\NotificationController.cs",
-              "RelativeDocumentMoniker": "AAL\\Controllers\\NotificationController.cs",
-              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\NotificationController.cs",
-              "RelativeToolTip": "AAL\\Controllers\\NotificationController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwIkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:38:56.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "AAL\\Controllers\\UserController.cs",
               "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\UserController.cs",
               "RelativeToolTip": "AAL\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T19:54:36.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "AAL\\Controllers\\AppointmentController.cs",
               "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\AppointmentController.cs",
               "RelativeToolTip": "AAL\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T23:55:59.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "AAL\\Controllers\\DoctorController.cs",
               "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "AAL\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:17:02.911Z"
+              "WhenOpened": "2025-06-25T23:17:02.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\AppointmentService.cs",
@@ -246,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AppointmentDTO.cs",
               "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\DTOs\\AppointmentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\AppointmentDTO.cs",
@@ -255,6 +243,32 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAiwCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T19:12:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\NotificationService.cs",
+              "RelativeToolTip": "BLL\\Services\\NotificationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:42:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "AAL\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\AAL\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "AAL\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwIkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:38:56.483Z",
               "EditorCaption": ""
             },
             {
@@ -268,18 +282,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T12:27:05.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NotificationService.cs",
-              "DocumentMoniker": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\NotificationService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\NotificationService.cs",
-              "ToolTip": "D:\\Dot Net\\ClinicAppointmentScheduler\\BLL\\Services\\NotificationService.cs",
-              "RelativeToolTip": "BLL\\Services\\NotificationService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv1gAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T19:42:21.546Z"
             },
             {
               "$type": "Document",

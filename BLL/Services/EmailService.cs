@@ -66,6 +66,7 @@ namespace BLL.Services
                 ErrorMessage = e.ErrorMessage,
             };
         }
+
         // Map EmailDTO to Email entity
         private static Email MapToEntity(EmailDTO dto)
         {
